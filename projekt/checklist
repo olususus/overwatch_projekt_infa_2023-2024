@@ -1,0 +1,48 @@
+                                 
+✅ - zrobione ❌ - do zrobienia ❓ - zaczete ale nie skonczone
+
+,-----.  ,--. ,--. ,----.   ,--. 
+|  |) /_ |  | |  |'  .-./   |  | 
+|  .-.  \|  | |  ||  | .---.|  | 
+|  '--' /'  '-'  ''  '--'  ||  | 
+`------'  `-----'  `------' `--' 
+✅ przy uzyciu superzdolnosci pokazuja sie 2 wiadomosci: NAPRAWIONE
+    - z none
+    - z prawdziwym damagem
+- trzeba bedzie poszukac
+
+████████▄   ▄██████▄        ▄███████▄     ▄████████  ▄██████▄  ▀█████████▄   ▄█     ▄████████ ███▄▄▄▄    ▄█     ▄████████ 
+███   ▀███ ███    ███      ██▀     ▄██   ███    ███ ███    ███   ███    ███ ███    ███    ███ ███▀▀▀██▄ ███    ███    ███ 
+███    ███ ███    ███            ▄███▀   ███    ███ ███    ███   ███    ███ ███▌   ███    █▀  ███   ███ ███▌   ███    ███ 
+███    ███ ███    ███       ▀█▀▄███▀▄▄  ▄███▄▄▄▄██▀ ███    ███  ▄███▄▄▄██▀  ███▌  ▄███▄▄▄     ███   ███ ███▌   ███    ███ 
+███    ███ ███    ███        ▄███▀   ▀ ▀▀███▀▀▀▀▀   ███    ███ ▀▀███▀▀▀██▄  ███▌ ▀▀███▀▀▀     ███   ███ ███▌ ▀███████████ 
+███    ███ ███    ███      ▄███▀       ▀███████████ ███    ███   ███    ██▄ ███    ███    █▄  ███   ███ ███    ███    ███ 
+███   ▄███ ███    ███      ███▄     ▄█   ███    ███ ███    ███   ███    ███ ███    ███    ███ ███   ███ ███    ███    ███ 
+████████▀   ▀██████▀        ▀████████▀   ███    ███  ▀██████▀  ▄█████████▀  █▀     ██████████  ▀█   █▀  █▀     ███    █▀  
+                                         ███    ███                                                                      
+
+✅ - zrobione ❌ - do zrobienia ❓ - zaczete ale nie skonczone
+
+❌ dodaj kilku nowych przeciwnikow
+❓ dodaj kilka sekretów (cos z fnafem musi byc) EDIT: Freddy zaimplementowany
+❌ dodaj nowa postac
+❌ dodaj mozliwosc zmiany postaci w trakcie gry
+❌ dodaj cos po orisie
+❌ zrob wersje bez dzwiekow (uwiez przyda sie)
+❌ skoncz mozliwosc atak w trakcie leczenia
+
+❌ DEEP LORE! (najlepiej w wersji dzwiekowej! na razie robie bez dzwiekow)
+
+                                 
+
+ ╦╔═╗╦╔═  ╔╦╗╔═╗╔╦╗╔═╗╦ ╦╔═╗╔═╗  ╔═╗╔═╗╔═╗╔╦╗╔═╗╔═╗╦
+ ║╠═╣╠╩╗   ║║║ ║ ║║╠═╣║║║╠═╣║    ╠═╝║ ║╚═╗ ║ ╠═╣║  ║
+╚╝╩ ╩╩ ╩  ═╩╝╚═╝═╩╝╩ ╩╚╩╝╩ ╩╚═╝  ╩  ╚═╝╚═╝ ╩ ╩ ╩╚═╝╩
+
+- dodaj postac w characters.py
+- pousawiaj damage itp
+- zimportuj postac do main.py
+- dodaj postac do def main w main.py
+- sprawdz czy dziala
+
+to samo z przeciwnikami

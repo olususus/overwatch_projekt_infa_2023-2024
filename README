@@ -1,0 +1,42 @@
+PRZECZYTAJ TO!
+
+Dostałeś mój projekt, masz tutaj BARDZO WAŻNE informacje streszczone jedna po drugiej:
+
+Zacznijmi od rozpiski folderów:
+
+- projekcior: w tym folderze znajdują się WSZYSTKIE podfoldery i pliki muzyczne, nie zalecam zmiany położenia jakichkolwiek plików ponieważ moze to kompletnie zepsuć muzyke:
+    - folder projekt: w tym folderze znajdują się pliku projektu wyłączając muzykę, nie zalecam usuwania czegokolwiek.
+    - folder __pycache__: folder wygenerowany automatycznie przez pythona, trzyma on dane na temat postaci i innych plików. Jeżeli chcesz, możesz usunąć ten folder ale i tak i tak on wróci po ponownym włączeniu pliku main.py
+    - folder testy: w tym folderze bawiłem się różnymi funkcjami pythona, żadnen z plików w tym folderze nie jest wykorzystywany, możesz to usunąć
+
+
+Teraz czas na pliki:
+
+- boss.py: nazwa sama się wyjaśnia, wszystkie bosy znajdują się właśnie w tym pliku
+- characters.py: wszystkie dostępne dla gracza postacie sa wlasnie tutaj
+- checklist: plik z którego korzystałem tylko ja
+- description.py: nie wykorzystywany plik, zrobiłem to w inny sposób
+- enemies.py: wszyscy przeciwnicy
+- main.py: NAJWAŻNIEJSZY PLIK. Właśnie ten plik uruchamiasz, w tym pliku znajduje się cały kod gry, potrzebny do samego uruchomienia.
+- music.py: W tym pliku znajduje sie tylko jedna ale wykorzystywana rzecz
+- straszaki.py: Nudziło mi się i chciałem dodać jakies ciekawe rzeczy, więc powstał ten plik.
+- wszystkie pliki z końcówką .ogg albo .mp3: pliki muzyczne, nie zmieniaj ich nazwy
+- game_results.pickle: nie wykorzystywany plik do wyników gry
+- leaderboard.json: plik do wyników gry
+- pixel_font.TFF: nie wykorzystywana czcionka
+
+A teraz czas na to co musisz zrobic przed pierwszym uruchomieniem pliku (obstawiając że masz windowsa 10/11, na macu albo linuxie nie wiem):
+
+- Otwórz folder projekcior
+- Kliknij prawy przycisk myszy w ktorymkolwiek miejscu w folderze (tam gdzie nie ma plików(w sensie że gdzies po prawej))
+- Kliknij otwórz w terminalu
+- W terminalu wpisz "pip install -r rozszerzenia.txt" (wnioskuje ze masz zainstalowanego pythona na kompie)
+- Zaczną ci się instalować rozszerzenia wymagane do uruchomienia projektu
+- Powinno wszystko się zainstalować
+- Uruchom plik main.py i zobacz czy na początku nie wyskakują żadne błędy. Jeżeli wyskakują zrób screena i wyślij do mnie.
+
+
+Wydaje mi się że to wszystko o czym powinienem powiedzieć. Stanowczo nie zalecam usuwania wielu rzeczy z pliku main.py bo większośc ma sens i działa, więc po co je usuwać.
+Wszelkie problemy proszę kierować do siebie i do pana z informatyki, on nie powiedział limitu linijek, więc wyczerpałem tak jak mogłem, teraz chce mieć spokój ;)
+
+~ Oluś
